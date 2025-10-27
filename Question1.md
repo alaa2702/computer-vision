@@ -1,0 +1,2 @@
+cv2.waitKey(0): Waits indefinitely for a key press before continuing the program. Commonly used when displaying a static image.
+cv2.waitKey(1): Waits for 1 millisecond for a key press. Used inside loops (like for video frames). If no key is pressed, it continues automatically.
